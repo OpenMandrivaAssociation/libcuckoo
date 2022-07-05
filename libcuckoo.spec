@@ -1,7 +1,7 @@
 %define devname %mklibname cuckoo -d
 
 Name: libcuckoo
-Version: 0.3
+Version: 0.3.1
 Release: 1
 Source0: https://github.com/efficient/libcuckoo/archive/refs/tags/v%{version}.tar.gz
 Summary: Hash table that allows multiple concurrent reader and writer threads
