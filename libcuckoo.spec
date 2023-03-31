@@ -2,7 +2,7 @@
 
 Name: libcuckoo
 Version: 0.3.1
-Release: 1
+Release: 2
 Source0: https://github.com/efficient/libcuckoo/archive/refs/tags/v%{version}/%{name}-%{version}.tar.gz
 Summary: Hash table that allows multiple concurrent reader and writer threads
 URL: https://github.com/efficient/libcuckoo
